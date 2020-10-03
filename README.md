@@ -1,3 +1,3 @@
-## ATELIER Python 1 / 3 - Binome JF Giammari & Axel Frau
-## ATELIER Python 4 / 5 - Binome JF Giammari & Baptiste Varamo
+## ATELIER Python 1 / 3 - Avec Axel Frau
+## ATELIER Python 4 / 5 - Avec Baptiste Varamo
 ## ATELIER Java - Sans Binome
