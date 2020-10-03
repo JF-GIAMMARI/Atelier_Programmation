@@ -1,0 +1,33 @@
+- [ ]  Paradigme - Une manière d'approcher et de traiter les problèmes informatique, c'est un ensemble de concept.
+- [ ]  Programmation impérative - Paradigme qui ce base sur une programmation séquentiel
+- [ ]  Programmation déclarative - Paradigme  qui ce base sur le développement de composants indépendants du contexte, donnant tout le temps le même résultats.
+- [ ]  Programmation fonctionnelle - Paradigme avec une approche déclarative, basé sur l'utilisation de fonction sans état,indépendante, réutilisable.
+- [ ]  Langage interprété - Lecture en direct par un interpréteur du code source avec un processus "pas à pas" puis calcule les données de sortie
+- [ ]  Langage compilé - Compilation par un compilateur du code source en langage machine (Binaire), il sera donc directement exécuté sur l'ordinateur.
+- [ ]  Typage dynamique - Typage gérer par l'ordinateur par défauts
+- [ ]  Typage statique - Typage gérer exclusivement par le développeur
+- [ ]  Type primitif -  Type les plus courant dans les langages
+- [ ]  Built-in type - Ensembles des types présent dans un langages
+- [ ]  Paramètre formel - Paramètre attendue d'une fonction
+- [ ]  Paramètre effectif - Paramètre utiliser pour exécuté une fonction (Dois correspondre au paramètre formel)
+- [ ]  Expression Ternaire - Expression composé d'une condition, et de deux valeurs
+- [ ]  Expression booléenne - Expression renvoyant une valeur booléenne
+- [ ]  Expression Régulière (Regex) - Chaine de caractères qui décrits des règles
+- [ ]  Structures itératives - Structure permettant l'exécution plusieurs fois de suite une ou plusieurs instructions
+- [ ]  Structure conditionnelle -  Structure permettant l'exécution sous condition d'une une ou plusieurs instructions
+- [ ]  Complexité d'un algorithme -  Evaluation de l'efficacité d'un algorithme (Si j'entre N quel est le nombre d'opération f(N) )
+- [ ]  Trace d'un algorithme - Représentation du déroulement d'un algo (Tableau)
+- [ ]  Mutabilité / immutabilité - Possibilité d'une classe/objets a changer l'état au cours du temps ou non
+- [ ]  Arbre de décision - Modèle d'apprentissage qui prédit tout les résultats en fonction de plusieurs variables d'entrée
+- [ ]  Caractère alphanumérique - Caractères alphabétique global et numérique
+- [ ]  Séquences ordonnées - Suite d'élément ordonnée a l'aide d'un indice
+- [ ]  Chaine de caractères - Séquences ordonnées de caractères
+- [ ]  Table de hachage - Structure de données Clé / Valeur
+- [ ]  Identificateur - Identifiant d'une donnée donner par le programmeur
+- [ ]  Indentation - Décalage
+- [ ]  Prédicats - Conditions
+- [ ]  Littéral - Valeur explicite d'un identificateur
+- [ ]  Tuples - Liste non mutable
+- [ ]  Liste - Sequence ordonnée de donnée
+- [ ]  IDE - Environnement de développement intégrée
+- [ ]  Github - Cloud dédier au développement compatible avec le versionning git
